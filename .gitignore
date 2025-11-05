@@ -1,0 +1,23 @@
+# Compiled class files in bin
+*.class
+bin/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup / temp 
+*.bak
+*.tmp
+~$*
