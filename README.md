@@ -18,9 +18,7 @@ It includes sand and water physics, a paintable grid, and keyboard/mouse control
 | Mouse Wheel | Change brush size |
 
 
-<img width="500" height="500" alt="Screenshot 2025-11-04 234033" src="https://github.com/user-attachments/assets/ce20176b-eb06-4444-8f9f-7af873c54767" />
+<img width="313" height="170" alt="Screenshot 2025-11-05 162819" src="https://github.com/user-attachments/assets/1eca35c9-0029-4b65-ba2c-addb3de9eee5" />
 
-
-<img width="500" height="360" alt="Screenshot 2025-11-04 234115" src="https://github.com/user-attachments/assets/7e44b84f-d24f-4585-9d9f-c0f49f7ade78" />
 
   
